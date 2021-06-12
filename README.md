@@ -1,1 +1,1 @@
-# Coursera_capstone
+# Accident Severity Prediction
